@@ -1,4 +1,4 @@
-# [YorkU-Site](https://aayush9029.github.io/YorkU-Site/)
+# [YorkU-Site](https://yorkapp.aayush.art)
 Quick Landing page for YorkU iOS app.
 
 
